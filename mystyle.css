@@ -5,3 +5,29 @@ h1{
     color: rgb(202, 12, 12);
     margin-left: 40px;
 }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #94e9db;
+    padding: 70px;
+}
+
+.logo {
+    float: left;
+    margin-right: 20x;
+}
+
+.logo img {
+    width: 100px;
+    height: 80px;
+}
+
+nav a {
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+nav a:hover {
+    color: aliceblue;
+}
